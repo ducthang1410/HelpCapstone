@@ -46,6 +46,7 @@ export const themeColors = [
     color: "#FB8C00",
     name: "default-theme",
   },
+
   {
     name: "blue-theme",
     color: "#1A97F5",
