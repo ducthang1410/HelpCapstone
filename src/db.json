@@ -1,0 +1,180 @@
+{
+  "test": [
+    {
+      "testID": 1,
+      "question": "At a party do you:",
+      "ans1": "a. Interact with many, including strangers",
+      "ans2": "b. Interact with a few, known to you",
+      "status": 0,
+      "testType": "MBTI"
+    },
+    {
+      "testID": 2,
+      "question": "Are you more:",
+      "ans1": "a. Realistic than speculative",
+      "ans2": "b. Speculative than realistic ",
+      "status": 0,
+      "testType": "MBTI"
+    },
+    {
+      "testID": 3,
+      "question": "Is it worse to:",
+      "ans1": "a. Have your “head in the clouds”",
+      "ans2": "b. Be “in a rut”",
+      "status": 0,
+      "testType": "MBTI"
+    },
+    {
+      "testID": 4,
+      "question": "Are you more impressed by:",
+      "ans1": "a. Principles ",
+      "ans2": "b. Emotions",
+      "status": 0,
+      "testType": "MBTI"
+    },
+    {
+      "testID": 5,
+      "question": "Are more drawn toward the:",
+      "ans1": "a. Convincing",
+      "ans2": "b. Touching",
+      "status": 0,
+      "testType": "MBTI"
+    },
+    {
+      "testID": 6,
+      "question": "Do you prefer to work:",
+      "ans1": "a. To deadlines ",
+      "ans2": "b. Just “whenever”",
+      "status": 0,
+      "testType": "MBTI"
+    },
+    {
+      "testID": 7,
+      "question": "Do you tend to choose:",
+      "ans1": "a. Rather carefully",
+      "ans2": "b. Somewhat impulsively ",
+      "status": 0,
+      "testType": "MBTI"
+    },
+    {
+      "testID": 8,
+      "question": "At parties do you:",
+      "ans1": "a.  Stay late, with increasing energy",
+      "ans2": "b.  Leave early with decreased energy",
+      "status": 0,
+      "testType": "MBTI"
+    },
+    {
+      "testID": 9,
+      "question": "Are you more attracted to:",
+      "ans1": "a. Sensible people ",
+      "ans2": "b. Imaginative people",
+      "status": 0,
+      "testType": "MBTI"
+    },
+    {
+      "testID": 10,
+      "question": "Are you more interested in:",
+      "ans1": "a. Laws than circumstances",
+      "ans2": "b.  Circumstances than laws",
+      "status": 0,
+      "testType": "MBTI"
+    },
+    {
+      "testID": 11,
+      "question": "In judging others are you more swayed by:",
+      "ans1": "a. Interact with many, including strangers",
+      "ans2": "b. Interact with a few, known to you",
+      "status": 0,
+      "testType": "MBTI"
+    },
+    {
+      "testID": 12,
+      "question": "In approaching others is your inclination to be somewhat :",
+      "ans1": "a. Objective ",
+      "ans2": "b. Personal",
+      "status": 0,
+      "testType": "MBTI"
+    }
+  ],
+  "user": [
+    {
+      "userID": 1,
+      "userName": "user1",
+      "password": "123",
+      "roleID": "U",
+      "phoneNumber": "123454564",
+      "address": "1 phan van tri",
+      "fullname": "ho hieu",
+      "resultID": "asdasd",
+      "status": 0,
+      "testID": "MBTI",
+      "email": "hieuhht12314@gmail.com"
+    },
+    {
+      "userID": 2,
+      "userName": "user2",
+      "password": "123",
+      "roleID": "U",
+      "phoneNumber": "123454564",
+      "address": "1 phan van tri",
+      "fullname": "ho hieu",
+      "resultID": "asdasd",
+      "status": 0,
+      "testID": "MBTI",
+      "email": "hieuhht12314@gmail.com"
+    },
+    {
+      "userID": 3,
+      "userName": "user3",
+      "password": "123",
+      "roleID": "U",
+      "phoneNumber": "123454564",
+      "address": "1 phan van tri",
+      "fullname": "ho hieu",
+      "resultID": "asdasd",
+      "status": 0,
+      "testID": "MBTI",
+      "email": "hieuhht12314@gmail.com"
+    },
+    {
+      "userID": 4,
+      "userName": "user4",
+      "password": "123",
+      "roleID": "U",
+      "phoneNumber": "123454564",
+      "address": "1 phan van tri",
+      "fullname": "ho hieu",
+      "resultID": "asdasd",
+      "status": 0,
+      "testID": "MBTI",
+      "email": "hieuhht12314@gmail.com"
+    },
+    {
+      "userID": 5,
+      "userName": "user5",
+      "password": "123",
+      "roleID": "U",
+      "phoneNumber": "123454564",
+      "address": "1 phan van tri",
+      "fullname": "ho hieu",
+      "resultID": "asdasd",
+      "status": 0,
+      "testID": "MBTI",
+      "email": "hieuhht12314@gmail.com"
+    },
+    {
+      "userID": 6,
+      "userName": "user6",
+      "password": "123",
+      "roleID": "U",
+      "phoneNumber": "123454564",
+      "address": "1 phan van tri",
+      "fullname": "ho hieu",
+      "resultID": "asdasd",
+      "status": 0,
+      "testID": "MBTI",
+      "email": "hieuhht12314@gmail.com"
+    }
+  ]
+}

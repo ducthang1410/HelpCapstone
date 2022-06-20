@@ -1,3 +1,4 @@
+export { default as Welcome } from './Welcome';
 export { default as Home } from './Home';
 export { default as Users } from './Users';
 export { default as Tests } from './Tests';
