@@ -10,6 +10,8 @@ import {
   Tests,
   TestResults,
   Bar,
+  PageTest
+  
 } from "../pages";
 
 import { useStateContext } from "../contexts/ContextProvider";
@@ -71,6 +73,7 @@ const Welcome = () => {
                 {/*Dashboard*/}
                 <Route path="/" element={<Home />} />
                 <Route path="/home" element={<Home />} />
+                <Route path="/pagetest" element={<PageTest/>} />
 
                 {/*Pages*/}
                 <Route path="/users" element={<Users />} />
