@@ -73,7 +73,7 @@ const Welcome = () => {
                 {/*Dashboard*/}
                 <Route path="/" element={<Home />} />
                 <Route path="/home" element={<Home />} />
-                <Route path="/pagetest" element={<PageTest/>} />
+                <Route path="/pageTest" element={<PageTest/>} />
 
                 {/*Pages*/}
                 <Route path="/users" element={<Users />} />

@@ -25,7 +25,7 @@ export const links = [
         icon: <HiDocumentText />,
       },
       {
-        name: "pagetest",
+        name: "pageTest",
         icon: <HiDocumentText />,
       },
       {

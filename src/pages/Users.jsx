@@ -169,7 +169,7 @@ export default function FormCRUD_1() {
                   onChange={(e) => setStatus(e.target.checked)}
                 />
                 <br></br>
-                <Button variant="outlined" onClick={updateUser} >Update User</Button>
+                <Button variant="outlined" onClick={updateUser} >Disable User</Button>
 
               </Card>
             </Grid>
