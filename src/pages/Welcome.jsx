@@ -70,14 +70,13 @@ const Welcome = () => {
               {themeSettings && (<ThemeSettings />)}
 
               <Routes>
-                {/*Dashboard*/}
-                <Route path="/" element={<Home />} />
+              <Route path="/" element={<Home />} />
                 <Route path="/home" element={<Home />} />
-                <Route path="/pageTest" element={<PageTest/>} />
-
+                {/* <Route path="/Mbti" element={<MBTI/>} /> */}
+                <Route path="/Hollan" element={<Hollan/>} />
                 {/*Pages*/}
                 <Route path="/users" element={<Users />} />
-                <Route path="/tests" element={<Tests />} />
+                {/* <Route path="/tests" element={<Tests />} /> */}
                 <Route path="/testResults" element={<TestResults />} />
               </Routes>
             </div>
