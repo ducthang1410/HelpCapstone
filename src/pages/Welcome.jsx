@@ -7,10 +7,11 @@ import { Navbar, Footer, Header, Sidebar, ThemeSettings } from "../components";
 import {
   Home,
   Users,
-  Tests,
   TestResults,
   Bar,
-  PageTest
+ 
+  Hollan
+
   
 } from "../pages";
 
@@ -73,11 +74,11 @@ const Welcome = () => {
                 {/*Dashboard*/}
                 <Route path="/" element={<Home />} />
                 <Route path="/home" element={<Home />} />
-                <Route path="/pagetest" element={<PageTest/>} />
-
+                {/* <Route path="/Mbti" element={<MBTI/>} /> */}
+                <Route path="/Hollan" element={<Hollan/>} />
                 {/*Pages*/}
                 <Route path="/users" element={<Users />} />
-                <Route path="/tests" element={<Tests />} />
+                {/* <Route path="/tests" element={<Tests />} /> */}
                 <Route path="/testResults" element={<TestResults />} />
               </Routes>
             </div>
